@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bicycle Crunch
+* source:	https://sketchfab.com/3d-models/bicycle-crunch-94be397f8db74f7c9c06263aaf988532
+* author:	Wacloni (https://sketchfab.com/Wacloni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bicycle Crunch" (https://sketchfab.com/3d-models/bicycle-crunch-94be397f8db74f7c9c06263aaf988532) by Wacloni (https://sketchfab.com/Wacloni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
